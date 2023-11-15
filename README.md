@@ -4,7 +4,7 @@
 
 
 
-### Olá eu sou o Matheus Catro 😎
+### Olá eu sou o Matheus Castro 😎
 
 [![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/matheus__castr/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matheus-castro-03a26a269/)
