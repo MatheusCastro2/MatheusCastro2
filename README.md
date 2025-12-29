@@ -40,7 +40,5 @@ De desenvolvedor a arquiteto de soluções na nuvem. Atualmente no 7º semestre 
 <a href="https://instagram.com/matheus__castr/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
-![Estatísticas do GitHub de Matheus](https://github-readme-stats.vercel.app/api?username=MatheusCastro2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-
 ---
 *“A melhor forma de prever o futuro é automatizá-lo.”*
